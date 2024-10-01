@@ -1,6 +1,7 @@
 # Fine-Tuning GPT-3.5 Turbo for Domain-Specific Tasks 💡
+![GPT UI of model finetuning for deeper insight](1.png)
 
-!GPT UI of model finetuning for deeper insight(1.png)
+
 
 ## Project Overview
 
@@ -43,7 +44,7 @@ The fine-tuned models demonstrated marked improvements in handling customer inqu
 - **Accuracy**: Increased ability to provide relevant solutions based on the specific context of customer queries and complaints.
 - **Efficiency**: Reduced token usage due to shorter prompts and more contextually aware responses.
 - **Response Time**: Improved latency, making the fine-tuned models more suitable for real-time customer service applications.
-
+![GPT UI of model finetuned for deeper insight](2.png)
 ## Conclusion
 
 This project highlights the power of fine-tuning GPT-3.5 Turbo for domain-specific tasks, demonstrating significant improvements in accuracy, efficiency, and overall performance. By customizing the models to handle both customer questions and complaints, we have created highly specialized AI tools suitable for real-world customer service applications.
