@@ -1,5 +1,7 @@
 # Fine-Tuning GPT-3.5 Turbo for Domain-Specific Tasks 💡
 
+(1.png)
+
 ## Project Overview
 
 This project demonstrates the fine-tuning of GPT-3.5 Turbo, a cutting-edge large language model (LLM) from OpenAI, to enhance its performance in handling specific tasks. Two models were created in this project: one fine-tuned for answering customer questions and another model specifically optimized for handling customer complaints. By utilizing real-world customer data, we created these two versions of GPT-3.5 Turbo to improve response accuracy and relevance in customer service scenarios.
