@@ -1,6 +1,6 @@
 # Fine-Tuning GPT-3.5 Turbo for Domain-Specific Tasks 💡
 
-(1.png)
+!GPT UI of model finetuning for deeper insight(1.png)
 
 ## Project Overview
 
